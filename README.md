@@ -1,7 +1,7 @@
 # Stabi
 
 > [!NOTE]
-> **How to test the model?**
+> **How to test it?**
 >
 > Download the local repo and open with RStudio. You can run the app locally and test it.
 >
